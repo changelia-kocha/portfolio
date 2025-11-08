@@ -52,6 +52,30 @@ src/
 
 ## Deployment
 
+### GitHub Pages (Automatic)
+
+The project is configured for automatic deployment to GitHub Pages via GitHub Actions. Simply push to the `main` branch and the site will be automatically deployed to:
+
+**https://changelia-kocha.github.io/portfolio/**
+
+To enable GitHub Pages:
+1. Go to your repository settings on GitHub
+2. Navigate to "Pages" in the left sidebar
+3. Under "Source", select "GitHub Actions"
+4. The workflow will automatically deploy on every push to `main`
+
+### Manual Deployment
+
+You can also deploy manually using the deploy script:
+
+```sh
+npm run deploy
+```
+
+This will build the project and deploy it to the `gh-pages` branch.
+
+### Build for Production
+
 Build the project for production:
 
 ```sh
