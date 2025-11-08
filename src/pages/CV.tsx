@@ -26,7 +26,7 @@ const CV = () => {
   const positions = [
     {
       title: "[Your Current Position]",
-      institution: "[Your Institution]",
+      institution: "Johan Skytte Institute of Political Studies",
       period: "2020 - Present",
     },
     {

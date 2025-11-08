@@ -24,7 +24,7 @@ const Index = () => {
             Political Science
           </p>
           <p className="text-xl md:text-2xl text-academic-light-gray mb-12">
-            [Your Institution]
+            Johan Skytte Institute of Political Studies
           </p>
           <div className="w-32 h-px bg-academic-coral mx-auto my-12"></div>
           <p className="text-xl md:text-2xl leading-relaxed text-foreground max-w-3xl mx-auto">
@@ -53,7 +53,7 @@ const Index = () => {
             </p>
             <p className="text-foreground">
               I hold a Ph.D. in Political Science from [Your University] and currently work as 
-              [Your Position] at [Your Institution].
+              [Your Position] at Johan Skytte Institute of Political Studies.
             </p>
           </div>
         </div>

@@ -35,8 +35,6 @@ jobs:
           rm -rf node_modules
           npm install
           npm install @rollup/rollup-linux-x64-gnu --no-save
-          cd node_modules/@swc/core && npm install --no-save || true
-          cd ../../..
 
       - name: Build
         run: npm run build
