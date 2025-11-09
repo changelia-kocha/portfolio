@@ -41,19 +41,10 @@ const Index = () => {
           </h2>
           <div className="space-y-6 text-lg leading-relaxed">
             <p className="text-foreground">
-              Welcome! My research explores questions regarding political institutions, electoral behavior, 
-              and quantitative methods in political science. I work at the intersection of comparative politics 
-              and data science, with a particular focus on democratic accountability and political representation.
+              I am a Researcher at the Johan Skytte Institute of Political Studies, University of Tartu, specializing in research methods and comparative politics. My work explores how political institutions and voter behavior interact with emerging computational approaches in political science.
             </p>
             <p className="text-foreground">
-              My work has been published in leading political science journals including the{" "}
-              <span className="italic">American Political Science Review</span>,{" "}
-              <span className="italic">Journal of Politics</span>, and{" "}
-              <span className="italic">Political Analysis</span>, among others.
-            </p>
-            <p className="text-foreground">
-              I hold a Ph.D. in Political Science from [Your University] and currently work as 
-              [Your Position] at Johan Skytte Institute of Political Studies.
+              Substantively, my research focuses on far-right mobilization, issue ownership, and political representation in contemporary Europe. I am particularly interested in how political elites construct and sustain the salience of issues such as immigration and identity, and how these dynamics shape patterns of electoral behavior and democratic accountability. Methodologically, I combine Qualitative Comparative Analysis (QCA), process tracing, statistical learning, and AI-assisted text analysis to investigate how discourse and institutions evolve across time and political contexts. My broader research agenda seeks to uncover how communication strategies and institutional frameworks jointly influence the resilience, or subversion, of democratic norms.
             </p>
           </div>
         </div>
