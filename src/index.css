@@ -17,7 +17,7 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 20%;
 
-    --primary: 6 78% 57%;
+    --primary: 220 70% 55%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 0 0% 45%;
@@ -26,7 +26,7 @@ All colors MUST be HSL.
     --muted: 0 0% 96%;
     --muted-foreground: 0 0% 55%;
 
-    --accent: 6 78% 57%;
+    --accent: 220 70% 55%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
@@ -34,12 +34,12 @@ All colors MUST be HSL.
 
     --border: 0 0% 90%;
     --input: 0 0% 90%;
-    --ring: 6 78% 57%;
+    --ring: 220 70% 55%;
 
     --radius: 0.25rem;
     
     /* Academic theme colors */
-    --academic-coral: 6 78% 57%;
+    --academic-coral: 220 70% 55%;
     --academic-gray: 0 0% 45%;
     --academic-light-gray: 0 0% 65%;
     --academic-border: 0 0% 92%;
@@ -71,7 +71,7 @@ All colors MUST be HSL.
     --popover: 0 0% 10%;
     --popover-foreground: 0 0% 95%;
 
-    --primary: 6 78% 57%;
+    --primary: 220 70% 55%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 0 0% 25%;
@@ -80,7 +80,7 @@ All colors MUST be HSL.
     --muted: 0 0% 20%;
     --muted-foreground: 0 0% 65%;
 
-    --accent: 6 78% 57%;
+    --accent: 220 70% 55%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62.8% 30.6%;
@@ -88,9 +88,9 @@ All colors MUST be HSL.
 
     --border: 0 0% 25%;
     --input: 0 0% 25%;
-    --ring: 6 78% 57%;
+    --ring: 220 70% 55%;
     
-    --academic-coral: 6 78% 57%;
+    --academic-coral: 220 70% 55%;
     --academic-gray: 0 0% 65%;
     --academic-light-gray: 0 0% 55%;
     --academic-border: 0 0% 25%;
